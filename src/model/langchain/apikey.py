@@ -1,0 +1,2 @@
+# apikey.py
+OPENAI_API_KEY = "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"

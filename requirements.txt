@@ -2,3 +2,5 @@ python
 pandas
 matplotlib
 seaborn
+langchain
+openai
